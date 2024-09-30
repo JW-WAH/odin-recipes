@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: "Papyrus", serif
+}
+
+.linkedlist li,
+.linkedlist a
+{
+ color:green
+}
+
+.maintitle{
+    color:lightcoral;
+    font-weight: 800;
+}
